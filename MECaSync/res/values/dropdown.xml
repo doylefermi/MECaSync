@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clas">
+        <item>C1&amp;2A</item>
+        <item>C1&amp;2B</item>
+        <item>C3A</item>
+        <item>C3B</item>
+        <item>C5A</item>
+        <item>C5B</item>
+        <item>C7A</item>
+        <item>C7B</item>
+        <item>E1&amp;2A</item>
+        <item>E1&amp;2B</item>
+        <item>E3A</item>
+        <item>E3B</item>
+        <item>E5A</item>
+        <item>E5B</item>
+        <item>E7A</item>
+        <item>E7B</item>
+        <item>EE1&amp;2</item>
+        <item>EE3</item>
+        <item>EE5</item>
+        <item>EE7</item>
+        <item>EB1&amp;2</item>
+        <item>B3</item>
+        <item>B5</item>
+        <item>B7</item>
+    </string-array>
+</resources>

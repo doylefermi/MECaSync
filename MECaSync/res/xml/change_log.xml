@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog>
+    <release version="1.6.2" versioncode="15">
+       <change>Ads removed</change>
+       <change>Support for Android L</change>
+   </release>
+   <release version="1.6.1" versioncode="14">
+       <change>Low end devices: Fixed bug in splash screen</change>
+       <change>Support for API 9</change>
+   </release>
+    <release version="1.6.0" versioncode="13">
+       <change>More bugs fixed</change>
+       <change>UI fixed</change>
+   </release>
+    
+    <release version="1.5.2" versioncode="12">
+       <change>Added support for Ads</change>
+       <change>UI Improvements</change>
+   </release>
+     <release version="1.5.1" versioncode="11">
+       <change>Bug Fix : Force Close when connection times out fixed</change>
+       <change>Activity Transition Style Changed</change>
+   </release>
+   <release version="1.4.11" versioncode="10">
+       <change>Minor Bug Fix : Null roll number error fixed</change>
+       <change>Changed Invalid Roll Number Message To Toast</change>
+   </release>
+   <release version="1.4.10" versioncode="9">
+        <change>Added new feature: Timetable</change>
+        <change>More bugs fixed</change>
+    </release>
+   
+   <release version="1.4.1" versioncode="8">
+        <change>Added support for 1st years</change>
+        <change>New logo released</change>
+    </release>
+    <release version="1.3.30" versioncode="7">
+        <change>More bugs fixed</change>
+        <change>Updated with new logo</change>
+    </release>
+    <release version="1.3.27" versioncode="6">
+        <change>Support for API 11 and above</change>
+        <change>Some More Bug Fixes</change>
+        <change>Screen fixed to portrait</change>
+    </release>    
+    <release version="1.3.26" versioncode="5">
+        <change>Bugs Fixed</change>
+        <change>Beta version</change>
+    </release>    
+     
+</changelog>
